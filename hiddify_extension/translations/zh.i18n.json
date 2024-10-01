@@ -1,1 +1,6 @@
-
+{
+    "form":{
+        "title":"标题",
+        "Description":"描述"
+    }
+}
