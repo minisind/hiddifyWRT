@@ -1,4 +1,4 @@
-module github.com/author_name/project_urlname
+module github.com/minisind/hiddifyWRT
 
 go 1.22.0
 
@@ -6,7 +6,7 @@ toolchain go1.22.3
 
 require (
 	github.com/fatih/color v1.16.0
-	github.com/hiddify/hiddify-core v1.9.1-0.20241001065750-4a521ba61013
+	github.com/hiddify/hiddify-core v1.9.1-0.20241001070526-fed42d4e6483
 	github.com/sagernet/sing-box v1.8.9
 )
 
